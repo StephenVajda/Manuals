@@ -1,0 +1,18 @@
+39
+
+Hi,
+
+Thank you for your order. This email confirms that you have made a purchase for the following items and that payment has been approved. You will receive an order email detailing how to access your purchase shortly.
+
+----------------------------------------------------------------
+ORDER RECEIPT
+
+Date:                   2018-08-01
+Order ID:               0029405948
+Gateway Transaction ID: ch_1CuKdIB3DJkw2oRoDTPJBsuH
+Customer Email:         sgv@rockwoodpl.com
+
+Products:               Building Mobile Apps with Ionic & Angular [BASIC] x 1 @ $31.00
+Sub-Total:              $31.00
+Total:                  $31.00
+----------------------------------------------------------------

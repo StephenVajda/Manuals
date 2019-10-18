@@ -1,0 +1,384 @@
+Summary
+The install methods for McAfee consumer software products, such as LiveSafe or Total Protection, vary depending on the device you are installing to. Follow the steps below to download and install a McAfee consumer security product on your device.
+
+What type of device do you want to install to?
+
+NOTE: Click to expand the relevant section below. Each section contains the install steps and a helpful video.
+ 
+ Download and install to PC or Mac
+ First-time install to a PC or Mac
+Use these steps on the PC or Mac you want to install to:
+
+Step 1: Log on to the McAfee website
+Go to home.mcafee.com.
+Click My Account.
+Click Sign In.
+ 
+If you already have a McAfee account:
+ 
+Type the email address for your McAfee account.
+Type the password for your McAfee account.
+Click Log in.
+ 
+If you do not have a McAfee account:
+ 
+Click Register Now.
+Follow the prompts.
+TIP: When you create your account, use a long password with both letters and numbers, for better security.
+Click Log In.
+
+Step 2: Start the installation
+Select:
+ 
+The type of device you want to install to.
+The McAfee software you want to install.
+ 
+Click Download.
+Read and agree to the License Agreement.
+Make a note of the serial number shown. You might be prompted for it later.
+TIP: Keep the browser window open so the serial number is always visible.
+Follow the instructions to install your McAfee software.
+
+If the install to your Windows PC fails, you might need to run the Pre-Install tool. See the Related Information section for more details.
+ 
+ Install to a PC or Mac from a different device
+Use these steps to start installing your McAfee product on a secondary computer, such as your child's PC or Mac, from your primary PC or Mac. For example, you can send an installation link from your main computer, and have your child click the link to complete the installation on their computer.
+
+Step 1: On the primary computer where you want to start the process
+Go to home.mcafee.com.
+Click My Account.
+Click Sign In.
+Type:
+ 
+The email address for your McAfee account.
+The password for your McAfee account.
+ 
+Click Log in.
+ 
+Step 2: Send a download link to the secondary computer
+Hover your mouse over My Account.
+Click Subscriptions.
+Click Add Device next to the product you want to install.
+Select the Windows or Mac device type.
+Click Send Link, then:
+ 
+Type the email address for an email account on the PC or Mac that you want to install to.
+Click Send Email.
+
+An email with a download link is sent to the computer you want to install to.
+
+Step 3: On the secondary computer
+Open the email application.
+Open the email from McAfee.
+Click the download link in the email.
+Follow the prompts to complete the installation.
+
+If the install to your Windows PC fails, you might need to run the Pre-Install tool. See the Related Information section for more details.
+ 
+ Repeat install to a PC or Mac
+After your first installation, you can install your McAfee software on an additional PC or Mac, as long as you have enough unused licenses. You can also reinstall your McAfee software on your PC or Mac:
+
+Step 1: Log in to the McAfee website
+Go to home.mcafee.com on the computer you want to protect.
+Click My Account.
+Click Sign In.
+Type:
+ 
+The email address for your McAfee account.
+The password for your McAfee account.
+ 
+Click Log in.
+
+Step 2: Start the installation
+Hover your mouse over My Account.
+Click Subscriptions.
+Click Add Device next to your McAfee subscription.
+Select the device type.
+Click Download.
+Select the McAfee product you want to install, and then click Download again.
+
+NOTE: If you want to reinstall to a different computer:
+ 
+Click Send Link.
+Type the email address of the other computer that you want to install to.
+Click Send Email. An email with a download link is sent to the computer you want to install to.
+Log in to the other computer.
+Open the email application.
+Open the email from McAfee.
+Click the download link in the email.
+ 
+Step 3: Complete the installation
+Read and accept the McAfee License Agreement.
+Make a note of the serial number shown. You might be prompted for it later.
+TIP: Keep the browser window open so the serial number is always visible.
+Click Download.
+Double-click to run the setup file.
+Follow the instructions to install your McAfee software.
+
+If the install to your Windows PC fails, you might need to run the Pre-Install tool. See the Related Information section for more details.
+View this video to learn how to install on a Windows PC:
+
+
+To view and subscribe to more videos, visit the official McAfee YouTube channel.
+ 
+NOTE: If you have a problem installing, ensure that your PC or Mac meets the minimum requirements:
+TS102471 - Minimum System Requirements for McAfee Security Suites for Windows and Mac
+TS100119 - How to prepare your Windows computer to download and install McAfee Consumer products
+ Download and install to Android
+ Install to an Android device from the Google Play Store
+Use these steps on the Android smartphone or tablet you want to install to.
+
+Step 1: Download McAfee Mobile Security to your Android device
+Open the Google Play Store.
+Search for McAfee Mobile Security.
+Tap Install. Wait for the installation to complete.
+Open Mobile Security.
+Read the End User License Agreement (EULA) and Privacy Notice.
+Tap Accept and Start Protection.
+Wait for the configuration process to complete.
+ 
+Step 2: Send an activation code to your device. 
+You can send the code from your PC:
+Go to home.mcafee.com.
+Click My Account.
+Click Sign In.
+ 
+If you already have a McAfee account:
+ 
+Type the email address for your McAfee account.
+Type the password for your McAfee account.
+Click Log in.
+
+ 
+If you do not have a McAfee account:
+ 
+Click Register Now.
+Follow the prompts.
+TIP: When you create your account, use a long password with both letters and numbers for better security.
+Click Log In.
+ 
+Click Subscriptions.
+Click Add Device.
+Select Mobile device.
+Click Send Link, then:
+ 
+Select the Android device type.
+Select the subscription type.
+ 
+Click Next.
+Under How should we send the link:
+ 
+Choose Text it to have the activation code link sent to your phone.
+Choose Email it to receive the activation code by email.
+ 
+Type the email address or phone number.
+Click Text me or Send email.
+ 
+Step 3: Activate McAfee Mobile Security
+Open your email or messages app on the Android device.
+Look for the message from McAfee. This message contains your activation code.
+Open Mobile Security.
+Tap the User icon in the top-right.
+Tap Got an activation code.
+Type the activation code you received. Wait for activation to complete.
+Create a 6-digit PIN and confirm it.
+Tap the orange circle at the top right.
+Select Set your security question.
+Type the 6-digit PIN that you created, then:
+ 
+Select two questions.
+Provide two correct answers.
+Tap Save.
+ 
+Tap Activate Uninstall Protection.
+Tap Activate.
+Tap Finish.
+ Install to one Android device from a different device
+Use these steps to start installing McAfee Mobile Security on a secondary device, such as your child's Android smartphone, from your smartphone, PC, or Mac. For example, you can send an installation link from your device, and have your child click the link to complete the installation on their smartphone or tablet.
+ 
+Step 1: On the primary device where you want to start the process
+Go to home.mcafee.com.
+Click My Account.
+Click Sign In.
+ 
+If you already have a McAfee account:
+ 
+Type the email address for your McAfee account.
+Type the password for your McAfee account.
+Click Log in.
+ 
+If you do not have a McAfee account:
+Click Register Now.
+Follow the prompts.
+TIP: When you create your account, use a long password with both letters and numbers for better security.
+Click Log In.
+ 
+Step 2: Send a download link to the secondary device
+Under My Account, click Subscriptions.
+Click Add Device.
+Select Mobile device.
+Click Send Link, then:
+ 
+Select the Android device type.
+Select the subscription type.
+ 
+Click Next.
+Under How should we send the link:
+ 
+Choose Text it to have the activation code link sent to your phone.
+Choose Email it to receive the activation code by email.
+ 
+Type the email address or phone number.
+Click Text me or Send email.
+
+Step 3: Download, install, and activate McAfee Mobile Security on the secondary device
+Open your email or messages app on the Android device.
+Look for the message from McAfee. This message contains your download link and activation code.
+Tap the download link to start the installation.
+When installation completes, open Mobile Security.
+Tap the User icon in the top-right.
+Tap Got an activation code.
+Type the activation code you received. Wait for activation to complete.
+Create a 6-digit PIN and confirm it.
+Tap the orange circle at the top right.
+Select Set your security question.
+Type the 6-digit PIN that you created, then:
+ 
+Select two questions.
+Provide two correct answers.
+Tap Save.
+ 
+Tap Activate Uninstall Protection.
+Tap Activate to finish the process.
+View this video to learn how to install on an Android device:
+
+
+To view and subscribe to more videos, visit the official McAfee YouTube channel.
+NOTE: If you have a problem installing, ensure that your Android device meets the minimum requirements:
+TS102472 - Minimum System Requirements for McAfee Mobile Security Suites on iOS and Android
+ Download and install to iOS
+ Install to an iOS device from the Apple App Store
+Use these steps on the iOS device you want to install to.
+
+Step 1: Download McAfee Mobile Security to your iOS device
+Go to the Apple App Store.
+Search for McAfee Mobile Security.
+ 
+TIP: Open the camera and scan this image on your iPhone or iPad to go to McAfee Mobile Security in the App store:
+
+
+Tap Get.
+If you are prompted, agree to download the app.
+Wait for McAfee Mobile Security to download and install.
+
+Step 2: Activate Mobile Security
+Open Mobile Security.
+Log in with your McAfee account email and password.
+Accept the McAfee License Agreement and Privacy Notice.
+Tap Next. Wait for your app to activate.
+ Install to one iOS device from a different device
+Use these steps to start installing McAfee Mobile Security on a secondary device, such as your child's iPhone, from your smartphone, PC, or Mac. For example, you can send an installation link from your device, and have your child click the link to complete the installation on their iPhone or iPad.
+
+Step 1: On the primary device where you want to start the process
+Go to home.mcafee.com on the other computer or device.
+Tap My Account.
+Tap Sign In.
+ 
+If you already have a McAfee account:
+ 
+Type the email address for your McAfee account.
+Type the password for your McAfee account.
+Click Log in.
+ 
+If you do not have a McAfee account:
+ 
+Click Register Now.
+Follow the prompts.
+TIP: When you create your account, use a long password with both letters and numbers for better security.
+Click Log In.
+ 
+Step 2: Send a download link to the secondary device
+Tap My Account.
+Tap Subscriptions.
+Tap Add Device.
+Select Mobile device.
+Tap Send Link, then:
+ 
+Select the iOS device type.
+Select the subscription type.
+ 
+Tap Next.
+Under How should we send the link:
+ 
+Choose Text it to have the activation code sent to your phone.
+Choose Email it to receive the activation code by email.
+ 
+Type the email address or phone number.
+Click Text me or Send Email.
+
+Step 3: On the secondary device 
+Open the email or messages app on the iOS device.
+Open the message from McAfee.
+Tap the download link in the email from McAfee.
+Follow the prompts to complete the installation.
+
+ 
+View this video to learn how to install on an iPhone or iPad:
+
+
+To view and subscribe to more videos, visit the official McAfee YouTube channel.
+ 
+NOTE: If you have a problem installing, ensure that your iOS device meets the minimum requirements:
+TS102472 - Minimum System Requirements for McAfee Mobile Security Suites on iOS and Android
+ Redeem a retail card and activate your subscription
+If you have a retail card with a registration number, follow these steps to redeem it:
+Open a web browser and go to the link shown on your retail card, for example mcafee.com/activate.
+Select:
+Your country and language.
+
+NOTE: The registration page tries to select the correct region, but it might not always get this right. Confirm that the region is correct before you continue.
+ 
+Type:
+The activation code from your retail card.
+Your email address.
+ 
+Click Submit.
+When prompted, check that your email address is correct. If your email address is incorrect:
+ 
+Click Edit to return to the previous screen.
+Correct your email address.
+ 
+Click Verify.
+Your subscription is now activated.
+Use the instructions in the sections above to create a McAfee account and install your product.
+View this video to learn how to activate your product subscription:
+
+
+To view and subscribe to more videos, visit the official McAfee YouTube channel.
+
+
+ 
+Virtual Assistant
+
+If you prefer guidance while installing your product, use the Virtual Assistant.
+
+NOTE: When you click the link above, a new window will open. Simply follow the prompts. When you finish the guided steps, close that window.
+Related Information
+Minimum System Requirements
+If you are having install problems, you should check the minimum system requirements. Ensuring that your device meets these requirements helps you to have a successful product install.
+
+Pre-Install Tool
+If your install fails on a Windows device, try using the Pre-Install Tool. This tool prepares your computer for installation:
+Download the Pre-Install Tool.
+NOTE: Save the file to a temporary location, such as your desktop.
+Double-click the Pre-Install_Tool.exe file, and follow the prompts.
+Read the warning message, and click OK to agree to the changes.
+After the Preinstall Tool completes:
+Click OK.
+Click Close.
+Restart your computer.
+Try to install your product again.
+
+If you are still unable to install your McAfee product after following the above advice, contact Technical Support.
+Previous Document ID
+307225
